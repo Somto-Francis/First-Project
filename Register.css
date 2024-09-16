@@ -1,0 +1,29 @@
+body{
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+    background-color: aqua;
+}
+
+.one{
+    padding: 20px;
+    border: 20px;
+}
+.two{
+    text-align: center;
+}
+
+input{
+    margin: 3px;
+}
+
+.input{
+    width: 100%;
+}
+
+.flex{
+    display: flex;
+}
+.four{
+    text-align: left;
+}
